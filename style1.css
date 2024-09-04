@@ -1,0 +1,228 @@
+.main{
+    background-color: greenyellow;
+    width: 100%;
+    height: 50px;
+
+}
+.master{
+    background-color: black;
+    width: 100%;
+    height: 250px;
+    margin-top: 20px;
+}
+.master1{
+    width: 100%;
+    height: 200px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.master1 div{
+    width: 440px;
+    height: 250px;
+    background-color: black;
+}
+@media only screen  and (min-width:1400px) {
+    .main{
+        background-color: greenyellow;
+        width: 100%;
+        height: 50px;
+    
+    }
+    .master{
+        background-color: black;
+        width: 100%;
+        height: 250px;
+        margin-top: 20px;
+    }
+    .master1{
+        width: 100%;
+        height: 200px;
+        margin-top: 40px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    .master1 div{
+        width: 440px;
+        height: 250px;
+        background-color: black;
+    }
+    
+}
+@media only screen and (max-width:1400px) and (min-width:1200px){
+    .main{
+        background-color: greenyellow;
+        width: 100%;
+        height: 50px;
+    
+    }
+    .master{
+        background-color: black;
+        width: 100%;
+        height: 250px;
+        margin-top: 20px;
+    }
+    .master1{
+        width: 100%;
+        height: 200px;
+        margin-top: 40px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    .master1 div{
+        width: 440px;
+        height: 250px;
+        background-color: black;
+    }
+    
+}
+@media only screen and (max-width:1200px) and (min-width:1400px){
+    .main{
+        background-color: greenyellow;
+        width: 100%;
+        height: 50px;
+    
+    }
+    .master{
+        background-color: black;
+        width: 100%;
+        height: 250px;
+        margin-top: 20px;
+    }
+    .master1{
+        width: 100%;
+        height: 200px;
+        margin-top: 40px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    .master1 div{
+        width: 440px;
+        height: 250px;
+        background-color: black;
+    }
+    
+}
+@media only screen and (max-width:992px) and (min-width:768px){
+    .main{
+        background-color: greenyellow;
+        width: 100%;
+        height: 50px;
+    
+    }
+    .master{
+        background-color: black;
+        width: 100%;
+        height: 250px;
+        margin-top: 20px;
+    }
+    .master1{
+        width: 100%;
+        height: 200px;
+        margin-top: 40px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    .master1 div{
+        width: 440px;
+        height: 250px;
+        background-color: black;
+    }
+    
+}
+@media only screen and (max-width:1200px) and (min-width:768px){
+    .main{
+        background-color: greenyellow;
+        width: 100%;
+        height: 50px;
+    
+    }
+    .master{
+        background-color: black;
+        width: 100%;
+        height: 250px;
+        margin-top: 20px;
+    }
+    .master1{
+        width: 100%;
+        height: 200px;
+        margin-top: 40px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    .master1 div{
+        width: 80px;
+        height: 190px;
+        background-color: black;
+    }
+    
+}
+@media only screen and (max-width:576px) and (min-width:420px){
+    .main{
+        background-color: greenyellow;
+        width: 100%;
+        height: 50px;
+    
+    }
+    .master{
+        background-color: black;
+        width: 100%;
+        height: 250px;
+        margin-top: 20px;
+    }
+    .master1{
+        width: 100%;
+        height: 200px;
+        margin-top: 40px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    .master1 div{
+        width: 440px;
+        height: 250px;
+        background-color: black;
+    }
+    
+}
+@media only screen and (max-width:420px){
+    .main{
+        background-color: greenyellow;
+        width: 100%;
+        height: 50px;
+    
+    }
+    .master{
+        background-color: black;
+        width: 100%;
+        height: 250px;
+        margin-top: 20px;
+    }
+    .master1{
+        width: 100%;
+        height: 200px;
+        margin-top: 40px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    .master1 div{
+        width: 80px;
+        height: 190px;
+        background-color: black;
+    }
+    
+}
+
+
+
+
+
+
+
